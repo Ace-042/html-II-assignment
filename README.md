@@ -1,4 +1,3 @@
-# html-II-assignment
 Second Upskill Task
 # HTML II Assignment
 
