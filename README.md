@@ -11,4 +11,4 @@ This project contains:
 - Google Map Embed
 - YouTube Embed
 
-Created by Emmanuel &#40;The_TechAce&#41;.
+Created by Emmanuel Ani &#40;The_TechAce&#41;.
